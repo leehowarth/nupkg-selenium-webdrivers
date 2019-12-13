@@ -2,20 +2,21 @@
 <package>
   <metadata>
     <id>Selenium.Chrome.WebDriver</id>
-    <version>77.0</version>
+    <version>79.0</version>
     <authors>jbaranda</authors>
     <summary>Selenium Chrome WebDriver (Win32)</summary>
     <description>
-	Repurposed nuget package of Selenium.WebDriver.ChromeDriver (packing process differs slightly)
-	Install Chrome Driver(Win32) for Selenium WebDriver into your Unit Test Project.
-	"chromedriver.exe" is copied to bin folder from package folder when the build process.
-	NuGet package restoring ready, and no need to commit "chromedriver.exe" binary into source code control repository.
+      Repurposed nuget package of Selenium.WebDriver.ChromeDriver (packing process differs slightly)
+      Install Chrome Driver(Win32) for Selenium WebDriver into your Unit Test Project.
+      "chromedriver.exe" is copied to bin folder from package folder when the build process.
+      NuGet package restoring ready, and no need to commit "chromedriver.exe" binary into source code control repository.
     </description>
     <language>en-US</language>
     <projectUrl>https://github.com/jbaranda/nupkg-selenium-webdrivers</projectUrl>
     <license type="expression">Unlicense</license>
     <tags>Selenium WebDriver Chrome</tags>
-    <releaseNotes>v77.0.3865.40 - Chrome Driver 77.0.3865.40 release - https://chromedriver.storage.googleapis.com/index.html?path=77.0.3865.40/
+    <releaseNotes>
+      v79.0.3945.36 - Chrome Driver 79.0.3945.36 release - https://chromedriver.storage.googleapis.com/index.html?path=79.0.3945.36/
     </releaseNotes>
   </metadata>
   <files>
